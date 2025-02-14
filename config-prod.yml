@@ -1,4 +1,4 @@
-label: master 
+label: dev 
 profile: prod
 config: 
-  info: master-prod1
+  info: dev-prod1
