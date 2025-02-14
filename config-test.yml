@@ -1,4 +1,4 @@
-label: master 
+label: dev 
 profile: test
 config: 
-  info: master-test
+  info: dev-test
